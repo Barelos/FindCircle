@@ -3,7 +3,7 @@ barel.levy@mail.huji.ac.il
 
 General:
     this is a simple function that take a text file with a list of dots
-     and plot the circle the best fit the data.
+     and plot the circle that best fit the data.
 
  Input file format:
     each line of the file reprisents one point.
